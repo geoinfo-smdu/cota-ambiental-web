@@ -1,5 +1,29 @@
-# Simulador Web, para composição da pontuação da cota ambiental
+# cota-ambiental-web
 
-Uma proposta de atualização a planilha disponilizada em http://gestaourbana.prefeitura.sp.gov.br/wp-content/uploads/2015/06/SIMULADOR_QA_PL272_V1_1.xls
+## Project setup
+```
+npm install
+```
 
-Mais informações sobre cota ambiental estão disponíveis em: https://gestaourbana.prefeitura.sp.gov.br/cota-ambiental-2/
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
